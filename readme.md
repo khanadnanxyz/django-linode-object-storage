@@ -1,0 +1,1 @@
+Simple experiment to try linode object storage with django
